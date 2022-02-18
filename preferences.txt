@@ -1,0 +1,5 @@
+favorite_film: gentlemen,
+favorite_series: naruto,
+favorite_food: lasagna,
+favorite_season: spring,
+country_to_visit: Netherlands
