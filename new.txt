@@ -1,0 +1,6 @@
+surname: Efimova,
+first_name: Tatiana,
+middle_name: Vladimirovna,
+age": 28,
+pet": 0,
+desired_salary: 1000$
